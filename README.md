@@ -14,7 +14,7 @@ This project implements a basic blockchain system with a web-based frontend usin
 
 - Backend: Python, Flask
 - Frontend: HTML, JavaScript, Bootstrap
-- Cryptography: pycryptodome
+- Cryptography: pycryptodome.
 
 ## Setup
 
